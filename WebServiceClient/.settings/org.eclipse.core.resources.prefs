@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/ws/Demo.java=UTF-8
+encoding//src/ws/DemoImpPortBindingStub.java=UTF-8
+encoding//src/ws/DemoImpService.java=UTF-8
+encoding//src/ws/DemoImpServiceLocator.java=UTF-8
+encoding//src/ws/produc/wsServer/PrductWsImpPortBindingStub.java=UTF-8
+encoding//src/ws/produc/wsServer/PrductWsImpService.java=UTF-8
+encoding//src/ws/produc/wsServer/PrductWsImpServiceLocator.java=UTF-8
+encoding//src/ws/produc/wsServer/Product.java=UTF-8
+encoding//src/ws/produc/wsServer/ProductWs.java=UTF-8
